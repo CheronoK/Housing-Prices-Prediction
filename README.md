@@ -1,4 +1,4 @@
-# Housing-Prices-Prediction-IP
+# Housing-Prices-Prediction
 
 This is a project that entails studying the factors that affect housing prices using given information on real estate properties that was collected over the past few months.
 
